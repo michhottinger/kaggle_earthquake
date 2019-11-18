@@ -1,2 +1,2 @@
 # kaggle_earthquake
-Kaggle earthquake data from LANL
+Kaggle earthquake data from USGS
